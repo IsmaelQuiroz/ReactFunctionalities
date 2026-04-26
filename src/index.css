@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+#CompE > * {
+  margin: 0;
+}
+
+#CompE > button {
+  background-color: #ffc05a;
+  border: none;
+  boder-radius: 0.25em;
+  color: #000;
+  cursor: pointer;
+}
+
+#CompA {
+  border: #ff5aef solid 1px;
+}
