@@ -24,7 +24,7 @@ export function ProvedorDataContext(props){
 
 
 //de esta forma no hace el useContext en los demás componentes
-export function usandoDatacontext(){
+export function UsandoDatacontext(){
     const context = useContext(ContextoCreado);
     if(!context){
         throw new Error('useDataContext must be used within a DataContextProvider')

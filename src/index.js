@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 import { ProvedorDataContext} from './contexts/dataContext';
 
 
-
  ReactDOM.render( 
    <React.StrictMode>
        <ProvedorDataContext>
